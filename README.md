@@ -4,7 +4,7 @@ Aplicacicación creada para que mi hija aprendiese a sumar y restar, ya de paso 
 
 Este ha sido mi primer programa con GUI, empleando el ide Eric 6 y PyQt.
 
-![Captura en español](https://github.com/javitum/Sumar-Restar/raw/captura_espanol.png)
+![Captura en español](https://github.com/javitum/Sumar-Restar/blob/main/raw/captura_espanol.png)
 
-![Capture in english](https://github.com/javitum/Sumar-Restar/raw/capture_english.png)
+![Capture in english](https://github.com/javitum/Sumar-Restar/blob/main/raw/capture_english.png)
 
