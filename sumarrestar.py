@@ -97,12 +97,12 @@ class MainWindow(QMainWindow, Ui_MainWindow):
         
         self.labelresultado.setText(str(resultado)) 
         if miresultado==resultado:
-            self.labelresultado_2.setText("Bien") 
+            self.labelresultado_2.setText(self.tr("Bien")) 
             bien=int(self.labelbien.text())+1
             self.labelbien.setText(str(bien))
 
         else:
-            self.labelresultado_2.setText("Mal") 
+            self.labelresultado_2.setText(self.tr("Mal") )
             mal=int(self.labelmal.text())+1
             self.labelmal.setText(str(mal))
         

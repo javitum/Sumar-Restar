@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE Project SYSTEM "Project-5.1.dtd">
 <!-- eric project file for project sumarrestar -->
-<!-- Saved: 2020-11-05, 16:40:54 -->
+<!-- Saved: 2020-11-06, 15:32:38 -->
 <!-- Copyright (C) 2020 Javier Madrazo, javitum@gmail.com -->
 <Project version="5.1">
   <Language>en_US</Language>
@@ -15,6 +15,7 @@
   <TranslationPattern>%language%.ts</TranslationPattern>
   <Eol index="0"/>
   <Sources>
+    <Source>README.md</Source>
     <Source>Ui_sumarrestar.py</Source>
     <Source>sumarrestar.py</Source>
     <Source>sumarrestar.pyw</Source>
